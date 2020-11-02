@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Uttam Sharma</h1>
-<h3 align="center">A Computer Science Undergraduate, having intrests in Web Development and DM.</h3>
+<h3 align="center">A Computer Science Undergraduate, having intrest in Web Development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uttamism&label=Profile%20views&color=0e75b6&style=flat" alt="uttamism" /> </p>
 
