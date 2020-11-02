@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Web Development**
 
-- 📝 I regulary write articles on [Quora](Quora)
+- 📝 I regulary write articles on [https://www.quora.com/profile/%E0%A4%89%E0%A4%A4%E0%A5%8D%E0%A4%A4%E0%A4%AE-%E0%A4%B6%E0%A4%B0%E0%A5%8D%E0%A4%AE%E0%A4%BE-Uttam-Sharma](Quora)
 
 - 📫 How to reach me [Click here](uttamsharma3052@gmail.com)
 
