@@ -7,7 +7,7 @@
 
 
 
-- 📫 How to reach me [Click here](uttamsharma3052@gmail.com)
+- 📫 How to reach me [Click here](mailto:uttamsharma3052@gmail.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
