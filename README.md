@@ -7,7 +7,7 @@
 
 - 📝 I regulary write articles on [Quora](Quora)
 
-- 📫 How to reach me **uttamsharma3052@gmail.com**
+- 📫 How to reach me [Click here](uttamsharma3052@gmail.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
